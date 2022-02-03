@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @patrykz98
-- 👀 I’m interested in Android Application.
-- 🌱 I’m currently learning more and more.
-- 📫 How to reach me -> patryk.zim98@gmail.com
+- 👨‍🎓 Bachelor of Applied Computer Science
+- 📲 Android Developer at Sabre Corporation
+- ⌨️ Kotlin
+- 📫 How to reach me -> https://www.linkedin.com/in/patryk-zimny-328192203/
 
